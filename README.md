@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://s2.ax1x.com/2020/02/11/1TRXWV.png" width="960px">
+    <img src="https://s2.ax1x.com/2020/02/11/1T5Qu8.png" width="960px">
 </div>
 
 | 操作系统 | 计算机网络 | 数据库 | 算法解析 | 校招经验 | 面经 | 公众号 |
