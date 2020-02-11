@@ -35,8 +35,8 @@
 
 ## :alien: 操作系统
 
-- 进程、线程的区别和使用场景 
-- 进程间通信方法的优劣
+- [进程、线程的区别和使用场景](https://github.com/realnumber666/TheCodeGang-Resource-Integration/blob/master/docs/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E8%BF%9B%E7%A8%8B%E3%80%81%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
+- [进程间通信方法的优劣](https://github.com/realnumber666/TheCodeGang-Resource-Integration/blob/master/docs/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E7%9A%84%E4%BC%98%E5%8A%A3.md)
 - 虚拟内存的作用、实现，分页、分段、段页式的区别
 - 页面置换算法的优劣与异同
 - I/O方式如异同、同步和阻塞、非阻塞的区别
