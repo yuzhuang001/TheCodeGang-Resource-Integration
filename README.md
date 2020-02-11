@@ -107,6 +107,6 @@
 
 ## :pencil: 公众号
 <div align="center">
-    <img src="https://s2.ax1x.com/2020/02/11/1T4dTH.png" width="800px">
+    <img src="https://s2.ax1x.com/2020/02/11/17F0sK.png" width="800px">
 </div>
 
