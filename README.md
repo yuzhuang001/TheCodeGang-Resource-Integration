@@ -4,9 +4,9 @@
 
 <br> 
 
-| 操作系统 | 计算机网络 | 数据库 | 算法解析 | 校招经验 | 面经 | 公众号 |
+| 校招经验 | 操作系统 | 计算机网络 | 数据库 | 算法解析 | 面经 | 公众号 |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: |
-| [:alien:](#alien-操作系统) | [:penguin:](#penguin-计算机网络) | [:zap:](#zap-数据库) | [:egg:](#egg-算法解析) | [:sparkles:](#sparkles-校招经验) | [:see_no_evil:](#see_no_evil-我的面经) | [:pencil:](#pencil-公众号)|
+| [:sparkles:](#sparkles-校招经验) | [:alien:](#alien-操作系统) | [:penguin:](#penguin-计算机网络) | [:zap:](#zap-数据库) | [:egg:](#egg-算法解析) | [:see_no_evil:](#see_no_evil-我的面经) | [:pencil:](#pencil-公众号)|
 
 <br> 
 
@@ -30,6 +30,8 @@
 - 我自己面过的所有公司的真实面经
 
 
+## :sparkles: 校招经验
+- [【互联网校招面经】当我踩了四个月坑后我想告诉你什么](https://mp.weixin.qq.com/s/kXR5Vkw_rPGS0UpkwOD7gA)
 
 ## :alien: 操作系统
 
@@ -80,8 +82,6 @@
 - [超精简高频分类算法题，适合面试前快速过目回忆](<https://github.com/realnumber666/Algorithm_classification> )
 - [我的Leetcode解题集](<https://github.com/realnumber666/LeetCodeEveryday> )
 
-## :sparkles: 校招经验
-- [【互联网校招面经】当我踩了四个月坑后我想告诉你什么](https://mp.weixin.qq.com/s/kXR5Vkw_rPGS0UpkwOD7gA)
 ## :see_no_evil: 我的面经
 
 ### 暑实
