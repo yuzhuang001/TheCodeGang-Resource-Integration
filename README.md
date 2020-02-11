@@ -1,11 +1,10 @@
 <div align="center">
-    <img src="https://s2.ax1x.com/2020/02/11/1T2t9f.png" width="960px">
+    <img src="https://s2.ax1x.com/2020/02/11/1TRXWV.png" width="960px">
 </div>
 
-
-| 操作系统 | 计算机网络 | 数据库 | 算法解析 | 校招经验 | 面经 |
-| :---: | :----: | :---: | :----: | :----: | :----: |
-| [:alien:](#alien-操作系统) | [:penguin:](#penguin-计算机网络) | [:zap:](#zap-数据库) | [:egg:](#egg-算法解析) | [:sparkles:](#sparkles-校招经验) | [:see_no_evil:](#see_no_evil-我的面经) |
+| 操作系统 | 计算机网络 | 数据库 | 算法解析 | 校招经验 | 面经 | 公众号 |
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: |
+| [:alien:](#alien-操作系统) | [:penguin:](#penguin-计算机网络) | [:zap:](#zap-数据库) | [:egg:](#egg-算法解析) | [:sparkles:](#sparkles-校招经验) | [:see_no_evil:](#see_no_evil-我的面经) | [:pencil:](#pencil-公众号)|
 
 
 这个仓库主要作为目录索引功能，为大家提供一个整体的内容概览并附上它们的链接。
@@ -101,4 +100,9 @@
 - shopee一轮
 - 百度三轮
 - 腾讯六轮
+
+## :pencil: 公众号
+<div align="center">
+    <img src="https://s2.ax1x.com/2020/02/11/1T4dTH.png" width="800px">
+</div>
 
