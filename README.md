@@ -87,12 +87,12 @@
 
 ### 暑实
 
-- [ ] 蚂蚁金服两轮
-- [ ] 商汤一轮
-- [ ] momenta两轮
-- [ ] 字节一轮
-- [ ] 钉钉一轮
-- [ ] 流利说两轮
+- [x] [蚂蚁金服两轮](https://github.com/realnumber666/TheCodeGang-Resource-Integration/blob/master/docs/%E6%88%91%E7%9A%84%E9%9D%A2%E7%BB%8F/%E6%9A%91%E5%AE%9E/%E8%9A%82%E8%9A%81%E9%87%91%E6%9C%8D%E4%B8%A4%E8%BD%AE.md) 
+- [x] [商汤一轮](https://github.com/realnumber666/TheCodeGang-Resource-Integration/blob/master/docs/%E6%88%91%E7%9A%84%E9%9D%A2%E7%BB%8F/%E6%9A%91%E5%AE%9E/%E5%95%86%E6%B1%A4%E4%B8%80%E8%BD%AE.md) 
+- [x] [momenta两轮](https://github.com/realnumber666/TheCodeGang-Resource-Integration/blob/master/docs/%E6%88%91%E7%9A%84%E9%9D%A2%E7%BB%8F/%E6%9A%91%E5%AE%9E/momenta%E4%B8%A4%E8%BD%AE.md) 
+- [x] [字节一轮](https://github.com/realnumber666/TheCodeGang-Resource-Integration/blob/master/docs/%E6%88%91%E7%9A%84%E9%9D%A2%E7%BB%8F/%E6%9A%91%E5%AE%9E/%E5%AD%97%E8%8A%82%E4%B8%80%E8%BD%AE.md) 
+- [ ] 钉钉一轮 
+- [ ] 流利说两轮 
 
 
 ### 秋招
